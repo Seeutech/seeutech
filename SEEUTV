@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png" group-title="SEEU  ",Zee tamil HD
 http://iamsom69.co.in/live.php?c=Zee_Tamil&q=Zee_Tamil_400&e=.m3u8
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/3NLDD8XW/image-search-1673807171968.jpg" group-title="SEEU ",Zee tamil HD
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/3NLDD8XW/image-search-1673807171968.jpg" group-title="SEEU ",Zee Cinema HD
 https://dai.google.com/ssai/event/rH_ZU7LMTy6I5kwhB17Wjg/master.m3u8
