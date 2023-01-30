@@ -3,3 +3,5 @@
 http://77.68.8.133/tensp11/index.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="STAR SPORTS HD" tvg-logo="https://i.postimg.cc/NMN8ZbHK/image-search-1675100844132.png" group-title="SEEU TAMIL ",Fox Cricket HD
 https://zee5.fun/sports/app/master.php?id=d38683dbc4241a88b7ff41ea19d0c283&e=.m3u8
+#EXTINF:-1 tvg-id="sun.in" tvg-name="STAR SPORTS HD" tvg-logo="https://i.postimg.cc/7LtNfwxB/image-search-1675101095950.png" group-title="SEEU TAMIL ", Astro Cricket HD
+http://208.86.19.13:81/7077.stream/index.m3u8
