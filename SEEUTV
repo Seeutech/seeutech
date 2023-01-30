@@ -11,3 +11,5 @@ http://he11o.akadatel.com/iptv/C47MBVH7DHZHRK/6692/index.m3u8
 http://iamsom69.co.in/live.php?c=Colors_HD&q=Colors_HD_400&e=.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/N0nnC3N9/image-search-1675019140659.jpg" group-title="SEEU  ", Star Gold HD
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/N0nnC3N9/image-search-1675019140659.jpg" group-title="SEEU  ", Sony Max HD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
