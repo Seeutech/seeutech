@@ -17,3 +17,5 @@ https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/76fG78LL/image-search-1673806243874.png" group-title="SEEU ",Sony SAB HD
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/fkQbGYfY/image-search-1674870826851.webp" group-title="SEEU ", DISCOVERY KIDS Telugu HD
+https://varun-iptv.netlify.app/m3u/discoverykidstelugu.m3u8
