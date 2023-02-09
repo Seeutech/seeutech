@@ -11,8 +11,6 @@ http://he11o.akadatel.com/iptv/C47MBVH7DHZHRK/6692/index.m3u8
 https://madplay.live/voot/app/master.php?id=2df45244f09369e16ea3f9117ca45157&e=.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/nzCZTn76/image-search-1673805771101.jpg" group-title="SEEU  ",ETV HD
 https://dtvjio.dtvstream.online/getm3u8?id=629&m3u8=/jiotvmblive.cdn.jio.com/ETV_Telugu/ETV_Telugu_800.m3u8
-#EXTINF:-1 tvg-id="sun.in" tvg-name="STAR SPORTS HD" tvg-logo="https://i.postimg.cc/bw3sTQhS/image-search-1673803022567.jpg" group-title="SEEU TAMIL ", Star SPORTS HD
-https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/vTwYmpgk/image-search-1673806254520.png" group-title="SEEU  ", Sony Max 
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/N0nnC3N9/image-search-1675019140659.jpg" group-title="SEEU  ", Star Gold HD
@@ -25,3 +23,5 @@ https://varun-iptv.netlify.app/m3u/discoverykidstelugu.m3u8
 https://dtvjio.dtvstream.online/getm3u8?id=638&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/Zee_Telugu_MOB/Fallback/Zee_Telugu_MOB-audio_98834_eng=98800-video=699600.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/3NLDD8XW/image-search-1673807171968.jpg" group-title="SEEU ", ZEE Cinema HD
 https://dai.google.com/ssai/event/XUmyfp_MQk2H_cTDIvz6aA/master.m3u8
+#EXTINF:-1 tvg-id="sun.in" tvg-name="STAR SPORTS HD" tvg-logo="https://i.postimg.cc/bw3sTQhS/image-search-1673803022567.jpg" group-title="SEEU TAMIL ", Star SPORTS HD
+https://live.tsports.com/live/tsports_live_720/index.m3u8
