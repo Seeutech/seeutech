@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png" group-title="SEEU  ",Zee tamil HD
-https://dtvjio.dtvstream.online/getm3u8?id=628&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/Zee_Tamil_MOB/Fallback/Zee_Tamil_MOB-audio_33635_eng=33600-video=148000.m3u8
+https://zee.yashrajmod.online/api.php?c=0-9-zeetamil
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/cJX2CzZ5/image-search-1673800116710.jpg" group-title="SEEU ",Star Bharat HD
 http://144.217.70.181:9587/hin2/STARBHARATUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/HLRKbycQ/image-search-1673800217156.jpg" group-title="SEEU ",Star Plus HD
