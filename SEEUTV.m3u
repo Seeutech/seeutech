@@ -9,8 +9,8 @@ https://assets-1.entertainvideo.com/assets/media/ce526e8f0f3ac1f5913324f9806a64e
 https://assets-1.entertainvideo.com/assets/media/2869b843af07b54c818a4c0612bdaef8/dash/f3ab2ae59e2919af9479ce3175f9d4fc.mpd
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sembi-et00330396-1669616249.jpg" group-title="SEEU  ",Sembi HD
 https://assets-1.mypowerdisk.com/transcode_video/e99b32e9039844f8973e56e7f877ee56/dash/d18d39a32ff75b9e954413f9fcb42c16.mpd
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/vTwYmpgk/image-search-1673806254520.png" group-title="SEEU  ", Sony Max 
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Har_Har_Mahadev_poster.jpg" group-title="SEEU  ", Hara Hara Mahadeva 
+https://assets-1.entertainvideo.com/assets/media/aa4e3c5e90c30b0670170c06fef05f49/dash/f92052252635cca536134d137812032e.mpd
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/N0nnC3N9/image-search-1675019140659.jpg" group-title="SEEU  ", Star Gold HD
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/76fG78LL/image-search-1673806243874.png" group-title="SEEU ",Sony SAB HD
