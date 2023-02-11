@@ -1,2 +1,27 @@
 #EXTM3U
-#EXTINF:-1 group-title="🎥TAMIL MOVIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFmNDQ4ZjgtYzlkZC00YmZjLTg5MzQtOTllOTdiMTgzMzY5XkEyXkFqcGdeQXVyMTEzNzg0Mjkx.jpg",Iravin Nizhal (2022) HD https://assets-1.entertainvideo.com/assets/media/1713591973d6495cd8457ffc75fdfb3e/dash/71d3193156b90a7b3c5593f7a034cc02.mpd 
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/cJX2CzZ5/image-search-1673800116710.jpg" group-title="SEEU ",Star Bharat HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/HLRKbycQ/image-search-1673800217156.jpg" group-title="SEEU ",Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/bJ2xW6yB/image-search-1673800896414.jpg" group-title="SEEU  ",Sun Tv HD
+http://he11o.akadatel.com/iptv/C47MBVH7DHZHRK/6692/index.m3u8
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/0yFLx7JH/image-search-1673806275819.png" group-title="SEEU  ", Colours HD
+http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/chunklist_w424049191.m3u8
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/nzCZTn76/image-search-1673805771101.jpg" group-title="SEEU  ",ETV HD
+https://tvstream.fun/jtv/JioTv/streams/2af83ecd489f6446dfe4785a0208539f/ETV_Telugu_800.m3u8?usfAuth=ytG2owzHodfMztzJyZHJywrLmdDIzgrHmdyYodeXmdaWmZfMzdbLzs0Tlte2nZu5nJK0mdm
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/vTwYmpgk/image-search-1673806254520.png" group-title="SEEU  ", Sony Max 
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/N0nnC3N9/image-search-1675019140659.jpg" group-title="SEEU  ", Star Gold HD
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/76fG78LL/image-search-1673806243874.png" group-title="SEEU ",Sony SAB HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/fkQbGYfY/image-search-1674870826851.webp" group-title="SEEU ", DISCOVERY KIDS Telugu HD
+https://varun-iptv.netlify.app/m3u/discoverykidstelugu.m3u8
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/mZHXFVrb/image-search-1673811718571.jpg" group-title="SEEU ", Zee Telugu HD
+https://dtvjio.dtvstream.online/getm3u8?id=638&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/Zee_Telugu_MOB/Fallback/Zee_Telugu_MOB-audio_33635_eng=33600-video=148000.m3u8
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/3NLDD8XW/image-search-1673807171968.jpg" group-title="SEEU ", ZEE Cinema HD
+https://dai.google.com/ssai/event/XUmyfp_MQk2H_cTDIvz6aA/master.m3u8
+#EXTINF:-1 tvg-id="sun.in" tvg-name="STAR SPORTS HD" tvg-logo="https://i.postimg.cc/bw3sTQhS/image-search-1673803022567.jpg" group-title="SEEU TAMIL ", Star SPORTS HD
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png" group-title="SEEU ",Zee Tamil HD
+https://zee.yashrajmod.online/api.php?c=0-9-zeetamil
