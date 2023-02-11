@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/cJX2CzZ5/image-search-1673800116710.jpg" group-title="SEEU ",Star Bharat HD
-http://144.217.70.181:9587/hin2/STARBHARATUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFmNDQ4ZjgtYzlkZC00YmZjLTg5MzQtOTllOTdiMTgzMzY5XkEyXkFqcGdeQXVyMTEzNzg0Mjkx.jpg" group-title="SEEU ", ",Iravin Nizhal (2022) HD
+https://assets-1.entertainvideo.com/assets/media/1713591973d6495cd8457ffc75fdfb3e/dash/71d3193156b90a7b3c5593f7a034cc02.mpd
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/HLRKbycQ/image-search-1673800217156.jpg" group-title="SEEU ",Star Plus HD
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/bJ2xW6yB/image-search-1673800896414.jpg" group-title="SEEU  ",Sun Tv HD
