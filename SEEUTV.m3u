@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFmNDQ4ZjgtYzlkZC00YmZjLTg5MzQtOTllOTdiMTgzMzY5XkEyXkFqcGdeQXVyMTEzNzg0Mjkx.jpg" group-title="SEEU ", ",Iravin Nizhal (2022) HD
 https://assets-1.entertainvideo.com/assets/media/1713591973d6495cd8457ffc75fdfb3e/dash/71d3193156b90a7b3c5593f7a034cc02.mpd
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/HLRKbycQ/image-search-1673800217156.jpg" group-title="SEEU ",Star Plus HD
-http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://dailytimes.com.pk/assets/uploads/2022/10/Sardar-%E2%80%94-Karthi-is-brilliant-in-this-ambitious-film-overloaded-with-message-Copy.jpg" group-title="SEEU ",Sardar HD
+https://assets-1.entertainvideo.com/assets/media/d765afadf41cef9064e78cb33889c8da/dash/d68d53868b5c07b81a9a62ff4e993f6f.mpd
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/bJ2xW6yB/image-search-1673800896414.jpg" group-title="SEEU  ",Sun Tv HD
 http://he11o.akadatel.com/iptv/C47MBVH7DHZHRK/6692/index.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/0yFLx7JH/image-search-1673806275819.png" group-title="SEEU  ", Colours HD
