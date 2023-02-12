@@ -25,3 +25,5 @@ https://dai.google.com/ssai/event/XUmyfp_MQk2H_cTDIvz6aA/master.m3u8
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png" group-title="SEEU ",Zee Tamil HD
 https://dtvjio.dtvstream.online/getm3u8?id=628&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/Zee_Tamil_MOB/Fallback/Zee_Tamil_MOB-audio_33635_eng=33600-video=148000.m3u8
+#EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/TYtcCLFD/image-search-1676186466314.jpg",KTV HD 
+http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/6693/index.m3u8 
