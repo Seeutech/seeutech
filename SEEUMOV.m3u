@@ -27,3 +27,5 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 https://dtvjio.dtvstream.online/getm3u8?id=628&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/Zee_Tamil_MOB/Fallback/Zee_Tamil_MOB-audio_33635_eng=33600-video=148000.m3u8
 #EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/TYtcCLFD/image-search-1676186466314.jpg",KTV HD 
 http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/6693/index.m3u8 
+#EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/fbSXdrPB/image-search-1676209064163.png", Sony Max -2 HD 
+http://208.86.19.13:81/7300.stream/index.m3u8 
