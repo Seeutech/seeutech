@@ -33,3 +33,5 @@ http://208.86.19.13:81/7300.stream/index.m3u8
 http://208.86.19.13:81/7288.stream/index.m3u8 
 #EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/RCGXPf1Q/image-search-1676222536738.png", SONY SPORTS 1 HD 
 https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8 
+#EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/xTzNkVdJ/image-search-1676222781685.jpg", STAR VIJAY  
+http://212.224.84.217:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo 
