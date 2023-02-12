@@ -31,3 +31,5 @@ http://he11o.akadatel.com/iptv/6KPA5QMR4XYRDA/6693/index.m3u8
 http://208.86.19.13:81/7300.stream/index.m3u8 
 #EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/Fzd2XmC0/image-search-1676209356064.jpg", Zee Action HD 
 http://208.86.19.13:81/7288.stream/index.m3u8 
+#EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/RCGXPf1Q/image-search-1676222536738.png", SONY SPORTS 1 HD 
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8 
