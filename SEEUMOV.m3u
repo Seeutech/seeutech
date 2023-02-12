@@ -32,6 +32,6 @@ http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/Fzd2XmC0/image-search-1676209356064.jpg", Zee Action HD 
 http://208.86.19.13:81/7288.stream/index.m3u8 
 #EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/RCGXPf1Q/image-search-1676222536738.png", SONY SPORTS 1 HD 
-https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8 
+https://sony247channels.akamaized.net/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=st=1676222962~exp=1676223262~acl=*~id=25baa7c9-6756-4304-bff3-2d3cee256457~hmac=fe1d52756cbca0d469cc506df8dda15186186f93b6c40af3a8b067e24c62a424&originpath=/linear/hls/pb/event/DD7fA-HgSUaLyZp9AjRYxQ/stream/2d58733b-c8e0-482e-9175-1244d301d23f:SIN2/master.m3u8 
 #EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/xTzNkVdJ/image-search-1676222781685.jpg", STAR VIJAY  
 http://212.224.84.217:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo 
