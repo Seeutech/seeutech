@@ -37,3 +37,5 @@ http://212.224.84.217:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=CXtoCQYV
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
 #EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/ZRLFM9gd/image-search-1676226495445.jpg", & PICTURES 
 https://dai.google.com/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8 
+#EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/rscj9Kvw/image-search-1676298700511.png", A-Sports 
+http://pakin.worldtvip.co/pk_asports/tracks-v1a1/mono.m3u8 
