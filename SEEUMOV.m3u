@@ -7,8 +7,6 @@ http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
 http://he11o.akadatel.com/iptv/C47MBVH7DHZHRK/6692/index.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/0yFLx7JH/image-search-1673806275819.png" group-title="SEEU  ", Colours HD
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/chunklist_w424049191.m3u8
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/nzCZTn76/image-search-1673805771101.jpg" group-title="SEEU  ",ETV HD
-https://dtvjio.dtvstream.online/getm3u8?id=629&m3u8=/jiotvmblive.cdn.jio.com/ETV_Telugu/ETV_Telugu_800.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/vTwYmpgk/image-search-1673806254520.png" group-title="SEEU  ", Sony Max 
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/N0nnC3N9/image-search-1675019140659.jpg" group-title="SEEU  ", Star Gold HD
@@ -33,6 +31,8 @@ http://208.86.19.13:81/7300.stream/index.m3u8
 http://208.86.19.13:81/7288.stream/index.m3u8 
 #EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/xTzNkVdJ/image-search-1676222781685.jpg", STAR VIJAY  
 http://212.224.84.217:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo 
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/nzCZTn76/image-search-1673805771101.jpg" group-title="SEEU  ",ETV HD
+https://dtvjio.dtvstream.online/getm3u8?id=629&m3u8=/jiotvmblive.cdn.jio.com/ETV_Telugu/ETV_Telugu_800.m3u8
 #EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/RCGXPf1Q/image-search-1676222536738.png", SONY SPORTS 1 HD 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
 #EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/ZRLFM9gd/image-search-1676226495445.jpg", & PICTURES 
