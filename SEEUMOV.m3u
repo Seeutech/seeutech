@@ -31,7 +31,7 @@ http://208.86.19.13:81/7300.stream/index.m3u8
 http://208.86.19.13:81/7288.stream/index.m3u8 
 #EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/xTzNkVdJ/image-search-1676222781685.jpg", STAR VIJAY  
 http://212.224.84.217:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo 
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/nzCZTn76/image-search-1673805771101.jpg" group-title="SEEU  ",ETV HD
+#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/vZGVvDGc/image-search-1676302784908.jpg" group-title="SEEU  ",ETV HD
 https://dtvjio.dtvstream.online/getm3u8?id=629&m3u8=/jiotvmblive.cdn.jio.com/ETV_Telugu/ETV_Telugu_800.m3u8
 #EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/RCGXPf1Q/image-search-1676222536738.png", SONY SPORTS 1 HD 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
