@@ -33,6 +33,8 @@ http://livesportsclub.tech/getm3u8?id=638&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/Z
 http://208.86.19.13:81/7300.stream/index.m3u8 
 #EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/Fzd2XmC0/image-search-1676209356064.jpg", Zee Action HD 
 http://208.86.19.13:81/7288.stream/index.m3u8 
+#EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/g2jKCSV6/image-search-1676474420550.webp", STAR SPORTS HINDI 
+http://212.224.84.217:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RED_oTI4cKidZo842vl5bzy0hA==,1671430347.0720930273=|User-agent=REDLINECLIENT 
 #EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/xTzNkVdJ/image-search-1676222781685.jpg", STAR VIJAY  
 http://212.224.84.217:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo 
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/vZGVvDGc/image-search-1676302784908.jpg" group-title="SEEU  ",ETV HD
