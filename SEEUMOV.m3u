@@ -22,7 +22,7 @@ http://212.224.84.217:2200/R-EX/TELUGU_STAR_MAA_HD-in/index.m3u8?token=Extra-Tv-
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/fkQbGYfY/image-search-1674870826851.webp" group-title="SEEU ", DISCOVERY KIDS Telugu HD
 https://varun-iptv.netlify.app/m3u/discoverykidstelugu.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/3NLDD8XW/image-search-1673807171968.jpg" group-title="SEEU ", ZEE Cinema HD
-https://dai.google.com/ssai/event/XUmyfp_MQk2H_cTDIvz6aA/master.m3u8
+https://dtvjio.dtvstream.online/getm3u8?id=165&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/Zee_Cinema_HD_MOB/Fallback/Zee_Cinema_HD_MOB-audio_33636_eng=33600-video=148000.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="STAR SPORTS HD" tvg-logo="https://i.postimg.cc/bw3sTQhS/image-search-1673803022567.jpg" group-title="SEEU TAMIL ", Star SPORTS HD
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png" group-title="SEEU ",Zee Tamil HD
