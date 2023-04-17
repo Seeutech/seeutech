@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/cJX2CzZ5/image-search-1673800116710.jpg" group-title="SEEU ",Star Bharat HD
 http://144.217.70.181:9587/hin2/STARBHARATUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-3 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/mZHXFVrb/image-search-1673811718571.jpg" group-title="SEEU ", Zee Telugu HD
-https://dtvjio.dtvstream.online/getm3u8?id=638&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/Zee_Telugu_MOB/Fallback/Zee_Telugu_MOB-audio_33635_eng=33600-video=148000.m3u8
+https://cflive-esports-english.zee5.com/out/v1/06589254a501444cae34f76c6afd5c60/Zee_telugu/index_3.m3u8
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/HLRKbycQ/image-search-1673800217156.jpg" group-title="SEEU ",Star Plus HD
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/bJ2xW6yB/image-search-1673800896414.jpg" group-title="SEEU  ",Sun Tv HD
