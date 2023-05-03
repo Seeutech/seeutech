@@ -1,47 +1,16 @@
 #EXTM3U
-#EXTINF:-1,Adithya TV
-http://103.175.73.14:8000/play/a010/index.m3u8
-#EXTINF:-1,Asianet Plus
-http://103.175.73.14:8000/play/a00h/index.m3u8
-#EXTINF:-1,Colors Super
-http://103.175.73.14:8000/play/a00t/index.m3u8
-#EXTINF:-1,ETV Abhiruchi
-http://103.175.73.14:8000/play/a00u/index.m3u8
-#EXTINF:-1,Gemini Comedy
-http://103.175.73.14:8000/play/a00v/index.m3u8
-#EXTINF:-1,Gemini TV HD
-http://103.175.73.14:8000/play/a00f/index.m3u8
-#EXTINF:-1,J Movies
-http://103.175.73.14:8000/play/a00m/index.m3u8
-#EXTINF:-1,KTV HD
-https://ranapk.xyz/JXW/vlive.php?c=KTV_HD&id=894&q=KTV_HD_MOB-audio_97351_und=97200-video=220000&e=.m3u8
-#EXTINF:-1,Kalaignar Siripolli
-http://103.175.73.14:8000/play/a00o/index.m3u8
-#EXTINF:-1,Kalaignar TV
-http://103.175.73.14:8000/play/a00n/index.m3u8
-#EXTINF:-1,Kochu TV
-http://103.175.73.14:8000/play/a00l/index.m3u8
-#EXTINF:-1,Mega 24
-http://103.175.73.14:8000/play/a013/index.m3u8
-#EXTINF:-1,Mega TV
-http://103.175.73.14:8000/play/a011/index.m3u8
-#EXTINF:-1,Star Maa Gold
-http://103.175.73.14:8000/play/a00p/index.m3u8
-#EXTINF:-1,Star Suvarna HD
-http://103.175.73.14:8000/play/a00b/index.m3u8
-#EXTINF:-1,Sun Music HD
-http://103.175.73.14:8000/play/a00c/index.m3u8
-#EXTINF:-1,Sun TV HD
-http://103.175.73.14:8000/play/a00d/index.m3u8
-#EXTINF:-1,Surya Movies
-http://103.175.73.14:8000/play/a00i/index.m3u8
-#EXTINF:-1,Surya Music
-http://103.175.73.14:8000/play/a00j/index.m3u8
-#EXTINF:-1,Udaya Comedy
-http://103.175.73.14:8000/play/a00x/index.m3u8
-#EXTINF:-1,Udaya Movies
-http://103.175.73.14:8000/play/a00r/index.m3u8
-#EXTINF:-1,Udaya Music
-http://103.175.73.14:8000/play/a00y/index.m3u8
-#EXTINF:-1,Zee Kannada HD
-http://103.175.73.14:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 group-title="🎥TAMIL MOVIES" tvg-logo="https://i.postimg.cc/50mKFZ9D/image-search-1683107669428.jpg", ENGLISH HD 
+https://jeolive.denveriptv.repl.co/JwPro.html?max=https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Eng_HD_IDC_AND/Fallback/index.m3u8 
+#EXTINF:-1 group-title="🎥TAMIL MOVIES" tvg-logo="https://i.postimg.cc/50mKFZ9D/image-search-1683107669428.jpg", HINDI HD 
+https://jeolive.denveriptv.repl.co/JwPro.html?max=https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Hin_HD_IDC_AND/Fallback/index.m3u8 
+#EXTINF:-1 group-title="🎥TAMIL MOVIES" tvg-logo="https://i.postimg.cc/50mKFZ9D/image-search-1683107669428.jpg", TAMIL HD 
+https://jeolive.denveriptv.repl.co/JwPro.html?max=https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Tam_HD_IDC_AND/Fallback/index.m3u8 
+#EXTINF:-1 group-title="🎥TAMIL MOVIES" tvg-logo="https://i.postimg.cc/50mKFZ9D/image-search-1683107669428.jpg", TELUGU HD 
+https://jeolive.denveriptv.repl.co/JwPro.html?max=https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Tel_HD_IDC_AND/Fallback/index.m3u8 
+#EXTINF:-1 group-title="🎥TAMIL MOVIES" tvg-logo="https://i.postimg.cc/50mKFZ9D/image-search-1683107669428.jpg", BENGALI HD 
+https://jeolive.denveriptv.repl.co/JwPro.html?max=https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Ben_HD_IDC_AND/Fallback/index.m3u8 
+#EXTINF:-1 group-title="🎥TAMIL MOVIES" tvg-logo="https://i.postimg.cc/50mKFZ9D/image-search-1683107669428.jpg", KANNADA HD 
+https://jeolive.denveriptv.repl.co/JwPro.html?max=https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Kan_HD_IDC_AND/Fallback/index.m3u8 
+#EXTINF:-1 group-title="🎥TAMIL MOVIES" tvg-logo="https://i.postimg.cc/50mKFZ9D/image-search-1683107669428.jpg", PUNJABI HD 
+https://jeolive.denveriptv.repl.co/JwPro.html?max=https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Punj_HD_IDC_AND/Fallback/index.m3u8
