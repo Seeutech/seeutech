@@ -1,42 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDFmNDQ4ZjgtYzlkZC00YmZjLTg5MzQtOTllOTdiMTgzMzY5XkEyXkFqcGdeQXVyMTEzNzg0Mjkx.jpg" group-title="SEEU ", ",Iravin Nizhal (2022) HD
-https://assets-1.entertainvideo.com/assets/media/1713591973d6495cd8457ffc75fdfb3e/dash/71d3193156b90a7b3c5593f7a034cc02.mpd
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://dailytimes.com.pk/assets/uploads/2022/10/Sardar-%E2%80%94-Karthi-is-brilliant-in-this-ambitious-film-overloaded-with-message-Copy.jpg" group-title="SEEU ",Sardar HD
-https://assets-1.entertainvideo.com/assets/media/d765afadf41cef9064e78cb33889c8da/dash/d68d53868b5c07b81a9a62ff4e993f6f.mpd
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://staticimg.spicyonion.com/images/profile/title/jaya-jaya-jaya-jaya-hey-dubbed-tamil-movie/jaya-jaya-jaya-jaya-hey-dubbed-tamil-movie.jpg" group-title="SEEU  ", Jaya Jaya Jaya Jaya Hey (2022) HD
-https://assets-1.entertainvideo.com/assets/media/ce526e8f0f3ac1f5913324f9806a64e8/dash/fdaf6add95e206e7e765eb1bdc03cdcd.mpd
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMyZTNkNzktOWM5NC00OWEyLWIzYjctYjk2MzFlOWRkMThiXkEyXkFqcGdeQXVyMTU2NDkwOTAw._V1_FMjpg_UX1000_.jpg" group-title="SEEU  ",Butterfly HD
-https://assets-1.entertainvideo.com/assets/media/2869b843af07b54c818a4c0612bdaef8/dash/f3ab2ae59e2919af9479ce3175f9d4fc.mpd
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sembi-et00330396-1669616249.jpg" group-title="SEEU  ",Sembi HD
-https://assets-1.mypowerdisk.com/transcode_video/e99b32e9039844f8973e56e7f877ee56/dash/d18d39a32ff75b9e954413f9fcb42c16.mpd
-#EXTINF:-9 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/jSc2yCCZ/image-search-1676394328349.jpg",LOVE TODAY MULTI AUDIO 
-https://assets-1.mypowerdisk.com/transcode_video/c071fcf1b942c2e53657bf6326abba77/dash/8b1a0010c28ace2c7c290bb8093d8ffc.mpd 
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Har_Har_Mahadev_poster.jpg" group-title="SEEU  ", Hara Hara Mahadeva 
-https://assets-1.entertainvideo.com/assets/media/aa4e3c5e90c30b0670170c06fef05f49/dash/f92052252635cca536134d137812032e.mpd
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/hGFVK5Hd/image-search-1676124133853.jpg" group-title="SEEU  ", Love Today HD Multi Audio 
-https://assets-1.mypowerdisk.com/transcode_video/52b534c04f42483958105be955894d1f/dash/2d546a68e0205ea791a0853b1da93769.mpd
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/bNJ5nZdR/image-search-1676124445044.jpg" group-title="SEEU ", Yashoda HD 
-https://assets-1.entertainvideo.com/assets/media/7b3f720f5fa77fc2cccd22074b15b282/dash/89813e11e5faf25ed90736322ad77aef.mpd
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/9FgQPwbX/image-search-1676124733177.jpg" group-title="SEEU ", BLACK ADAM HD
-https://assets-1.mypowerdisk.com/transcode_video/360a2fb40fbc81a8f4d89588bae566df/dash/17ad616dd7201d76e872d57cc4c690cc.mpd
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/G2T5fVwS/image-search-1676125018784.webp" group-title="SEEU ", CHUP HD
-https://assets-1.mypowerdisk.com/transcode_video/6533c214f0defe650efe389ee6be7e39/dash/855510b243ad8f97b2bb167b629ecad2.mpd
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/nV57xF95/image-search-1676135555551.jpg" group-title="SEEU ", Shakini Dakini HD
-https://assets-1.entertainvideo.com/assets/media/f2d4969845bfb0f97d1875bb98418ba1/dash/1c8c8654c0566b2252ced002e29adc59.mpd
-#EXTINF:-1 tvg-id="sun.in" tvg-name="STAR SPORTS HD" tvg-logo="https://i.postimg.cc/gJLMzM4b/image-search-1676135856622.jpg" group-title="SEEU TAMIL ", Plan A Plan B HD
-https://assets-1.entertainvideo.com/assets/media/7131a1c26677f350f61f53aa88a007ff/dash/b01098dfbb0b20e1ab8a9824a76452ac.mpd
-#EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/RVnpvzn9/image-search-1677599404121.jpg",WALTAIR VEERAYYA 
-https://assets-1.entertainvideo.com/assets/media/9ef36bd8e3be6377ef1e5445d85eb2b0/dash/586f3c225c97e85bec5c32a20d413320.mpd
-#EXTINF:-1 tvg-id="sun.in" tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/9QL4Ty4D/image-search-1676184612835.jpg" group-title="SEEU ",Dhamaka HD
-https://assets-1.entertainvideo.com/assets/media/7b2fbd0b25584d2f49f4a29fa0593e21/dash/62d7c1ee1443a8ab6dcff584db576a5c.mpd
-#EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/137t4PT6/image-search-1676184851118.jpg",Beast HD Multi Audio 
-https://assets-1.entertainvideo.com/assets/media/76397167359bd64381b5c02618c13652/dash/e8e842b0bb3e594c02266ede270e0461.mpd
-#EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/B6bbCTZw/image-search-1676219122240.jpg", MICHAEL Telugu DVD 
-https://assets-1.entertainvideo.com/assets/media/b943647a6d28f936a79cd10ba7efbee5/dash/0b00630270e31bcae702b12a6001c975.mpd
-#EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/SxbsMDNQ/image-search-1676186166736.jpg",18 Pages HD 
-https://assets-1.entertainvideo.com/assets/media/1fb273c7c77b5499db94127438196e99/dash/7f805b41390c9f5a78ef14178e620662.mpd
-#EXTINF:-1 group-title="SEEU MOV" tvg-logo="https://bingeddata.s3.amazonaws.com/uploads/2022/11/mukundan-unni-associates.jpg",Mukundan Unni Associates (2023) HD 
-https://assets-1.entertainvideo.com/assets/media/b5bd027b4060a267bb05470a7cbf17d1/dash/d309463c7b4dca4625b9661db10bda0b.mpd
-#EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/CLK5BjGr/image-search-1676203105264.jpg", NBK X PSPK Part -2 HD 
-https://assets-1.entertainvideo.com/assets/media/5150782541dfdf566754cd3e3729b91a/dash/3aa6b64e58e687d6fd569c2a12cd9aa6.mpd
- 
+#EXTINF:-1 group-title="🎥TAMIL MOVIES" tvg-logo="https://i.postimg.cc/50mKFZ9D/image-search-1683107669428.jpg", ENGLISH HD https://jeolive.denveriptv.repl.co/JwPro.html?max=https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Eng_HD_IDC_AND/Fallback/index.m3u8 
+#EXTINF:-1 group-title="🎥TAMIL MOVIES" tvg-logo="https://i.postimg.cc/50mKFZ9D/image-search-1683107669428.jpg", HINDI HD https://jeolive.denveriptv.repl.co/JwPro.html?max=https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Hin_HD_IDC_AND/Fallback/index.m3u8 
+#EXTINF:-1 group-title="🎥TAMIL MOVIES" tvg-logo="https://i.postimg.cc/50mKFZ9D/image-search-1683107669428.jpg", TAMIL HD https://jeolive.denveriptv.repl.co/JwPro.html?max=https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Tam_HD_IDC_AND/Fallback/index.m3u8 
+#EXTINF:-1 group-title="🎥TAMIL MOVIES" tvg-logo="https://i.postimg.cc/50mKFZ9D/image-search-1683107669428.jpg", TELUGU HD https://jeolive.denveriptv.repl.co/JwPro.html?max=https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Tel_HD_IDC_AND/Fallback/index.m3u8 
+#EXTINF:-1 group-title="🎥TAMIL MOVIES" tvg-logo="https://i.postimg.cc/50mKFZ9D/image-search-1683107669428.jpg", BENGALI HD https://jeolive.denveriptv.repl.co/JwPro.html?max=https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Ben_HD_IDC_AND/Fallback/index.m3u8 
+#EXTINF:-1 group-title="🎥TAMIL MOVIES" tvg-logo="https://i.postimg.cc/50mKFZ9D/image-search-1683107669428.jpg", KANNADA HD https://jeolive.denveriptv.repl.co/JwPro.html?max=https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Kan_HD_IDC_AND/Fallback/index.m3u8 
+#EXTINF:-1 group-title="🎥TAMIL MOVIES" tvg-logo="https://i.postimg.cc/50mKFZ9D/image-search-1683107669428.jpg", PUNJABI HD https://jeolive.denveriptv.repl.co/JwPro.html?max=https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Punj_HD_IDC_AND/Fallback/index.m3u8
