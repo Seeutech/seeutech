@@ -16,4 +16,4 @@ https://prod-sports-north-gm.jiocinema.com/bpk-tv/M1_IPL23_Punj_HD_IDC_AND/Fallb
 #EXTINF:-1 group-title="🎥TAMIL MOVIES" tvg-logo="https://i.postimg.cc/50mKFZ9D/image-search-1683107669428.jpg", ENGLISH HD 
 http://162.19.228.13:8081/TIGER1/HD/chunks.m3u8 
 #EXTINF:-1 group-title="SEEU MOVIES" tvg-logo="https://i.postimg.cc/MTkHX8XP/image-search-1683163331675.webp",ZEE CINEMA HD 
-https://cflive-esports-hindi.zee5.com/out/v1/b0f6850e1ad44eba84e1c54fb8d5f2f6/Zee_Cinema_ME_SD/index_3.m3u8 
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test 
